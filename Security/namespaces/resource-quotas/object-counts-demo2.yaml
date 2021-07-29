@@ -4,7 +4,7 @@ metadata:
   name: object-counts
 spec:
   hard:
-    pods: "4"
+    pods: "6"
     replicationcontrollers: "2"
     services: "10"
     count/deployments.apps: "2"
